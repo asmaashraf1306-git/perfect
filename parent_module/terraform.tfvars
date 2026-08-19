@@ -4,7 +4,7 @@ rgs = {
     location = "Japan East"
   }
 
-  
+
 }
 
 vnets = {
