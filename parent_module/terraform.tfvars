@@ -3,6 +3,8 @@ rgs = {
     name     = "nightangel"
     location = "Japan East"
   }
+
+
 }
 
 vnets = {
